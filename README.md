@@ -48,3 +48,14 @@ This machine learning project predicts whether a loan will be approved based on 
 ## 🚀 How to Use
 
 ### Example Input:
+Gender: Male
+Married: Yes
+Dependents: 0
+Education: Graduate
+Self_Employed: No
+ApplicantIncome: 5000
+CoapplicantIncome: 2000
+LoanAmount: 100
+Loan_Amount_Term: 360
+Credit_History: 1
+Property_Area: Urban
