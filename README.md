@@ -43,19 +43,3 @@ This machine learning project predicts whether a loan will be approved based on 
 - F1 Score: Good on both approved (1) and rejected (0) classes
 - Can be improved using SMOTE / Hyperparameter Tuning / Ensemble methods
 
----
-
-## 🚀 How to Use
-
-### Example Input:
-Gender: Male
-Married: Yes
-Dependents: 0
-Education: Graduate
-Self_Employed: No
-ApplicantIncome: 5000
-CoapplicantIncome: 2000
-LoanAmount: 100
-Loan_Amount_Term: 360
-Credit_History: 1
-Property_Area: Urban
